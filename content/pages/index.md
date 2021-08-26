@@ -27,7 +27,7 @@ sections:
     video_embed_html: |-
       Where your 
       vision
-      Comes to life...
+      Comes to life..
     media_position: left
     media_width: sixty
     align: left
