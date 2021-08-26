@@ -566,7 +566,6 @@ sections:
     type: features_section
     background_image: /images/Recent projects header-83bd42d2.png
   - section_id: lorem-ipsum
-    title: Recent Projects
     content: |
       ## ![](/images/Recent%20projects%20header-8f4940c1.png)
     actions: []
