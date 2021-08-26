@@ -525,8 +525,6 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: |
-          *   ![](/images/hart.jpg)
         content_align: left
         actions: []
         actions_align: left
