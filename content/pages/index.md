@@ -39,6 +39,20 @@ sections:
     type: hero_section
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
+  - type: hero_section
+    title: Some of our Latest Designs
+    content: |
+      ****
+    actions:
+      - label: Get Your Ticket Today!
+        url: /about
+        style: primary
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
+    background_image_opacity: 15
+    background_image_size: cover
   - section_id: lorem-ipsum
     actions: []
     grid_items:
@@ -84,20 +98,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: hero_section
-    title: Some of our Latest Designs
-    content: |
-      ****
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image_opacity: 15
-    background_image_size: cover
   - type: grid_section
     grid_items:
       - title: 2 Days
