@@ -562,7 +562,7 @@ sections:
     show_excerpt: false
     show_image: false
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     has_border: true
     background_color: none
