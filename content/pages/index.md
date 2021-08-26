@@ -24,7 +24,7 @@ sections:
            
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: ' '
+    video_embed_html: Where your vision Comes o life...
     media_position: left
     media_width: sixty
     align: left
