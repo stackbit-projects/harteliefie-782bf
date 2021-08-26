@@ -41,7 +41,6 @@ sections:
     image: /images/Harteliefie Heading.png
   - type: hero_section
     title: Some of our Latest Designs
-    subtitle: Of our latest Project
     content: |
       ****
     actions:
