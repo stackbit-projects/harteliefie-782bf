@@ -39,7 +39,7 @@ sections:
     type: hero_section
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
-  - section_id: lorem-ipsum
+  - section_id: Recent work
     content: |
       ## ![](/images/Recent%20projects%20header-8f4940c1.png)
     actions: []
