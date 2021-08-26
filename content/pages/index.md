@@ -573,7 +573,7 @@ sections:
     type: blog_feed_section
     background_image: /images/Recent projects header.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: '                                            '
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
