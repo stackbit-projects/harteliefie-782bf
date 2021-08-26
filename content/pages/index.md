@@ -39,20 +39,6 @@ sections:
     type: hero_section
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
-  - type: hero_section
-    title: Some of our Most recent work
-    content: |
-      ****
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image_opacity: 15
-    background_image_size: cover
   - section_id: lorem-ipsum
     content: |
       ## ![](/images/Recent%20projects%20header-8f4940c1.png)
@@ -80,6 +66,20 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: /images/Recent projects header-8f4940c1.png
+  - type: hero_section
+    title: Some of our Most recent work
+    content: |
+      ****
+    actions:
+      - label: Get Your Ticket Today!
+        url: /about
+        style: primary
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
+    background_image_opacity: 15
+    background_image_size: cover
   - section_id: lorem-ipsum
     actions: []
     grid_items:
