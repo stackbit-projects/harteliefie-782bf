@@ -570,7 +570,7 @@ sections:
     background_image_opacity: 100
     background_image_size: auto
     background_image_position: center center
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     type: blog_feed_section
     background_image: /images/Recent projects header.png
 seo:
