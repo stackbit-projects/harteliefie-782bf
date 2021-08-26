@@ -22,16 +22,7 @@ sections:
 
 
            
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image_alt: lorem-ipsum
     video_embed_html: |-
       Where your 
