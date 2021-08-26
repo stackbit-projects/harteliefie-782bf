@@ -596,7 +596,7 @@ sections:
     type: features_section
     background_image: /images/Recent projects header-83bd42d2.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Home
     content: >-
       ## Lorem ipsum
 
