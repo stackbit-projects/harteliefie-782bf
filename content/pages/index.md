@@ -42,7 +42,8 @@ sections:
   - type: hero_section
     title: A Little preview
     subtitle: Of our latest Project
-    content: '**April 14 - 16, 2021**'
+    content: |
+      ****
     actions:
       - label: Get Your Ticket Today!
         url: /about
