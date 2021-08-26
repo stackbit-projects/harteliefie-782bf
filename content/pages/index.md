@@ -550,7 +550,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: '                                                                                                                                                                               .                                                                                                                                                                                                                                        .                                                                                                                                                                                                                                                                                                  .                                                                                                                                                          .'
     actions: []
     blog_feed_cols: three
     enable_cards: false
