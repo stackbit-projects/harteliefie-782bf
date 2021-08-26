@@ -511,7 +511,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          ## ![](/images/The%20Samoosa%20Lady%20LOGO.png)
+          ##
         content_align: left
         actions: []
         actions_align: left
