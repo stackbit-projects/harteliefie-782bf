@@ -498,6 +498,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: /images/Header homepage SMALLER RIGHT.png
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
