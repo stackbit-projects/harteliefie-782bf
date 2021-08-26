@@ -40,6 +40,7 @@ sections:
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
     title: we love
+    subtitle: mknghlknbsl/knblbxkg;nb
   - type: hero_section
     title: Inspire. Create. Build.
     subtitle: Conference for Creative People
