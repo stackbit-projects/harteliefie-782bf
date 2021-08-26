@@ -579,7 +579,7 @@ sections:
       accordingly. Every Project we work on, ends up being beautiful in it's own
       unique way. These are just some of our most recent projects which includes
       designs and printed items for different functions, businesses and clients.
-    media_position: right
+    media_position: bottom
     media_width: fourty
     align: left
     padding_top: medium
