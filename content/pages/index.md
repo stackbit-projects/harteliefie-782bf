@@ -505,7 +505,6 @@ sections:
     padding_bottom: medium
     background_color: none
   - section_id: lorem-ipsum
-    title: Digital
     subtitle: lorem-ipsum
     actions: []
     grid_items:
