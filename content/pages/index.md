@@ -26,7 +26,7 @@ sections:
     image_alt: lorem-ipsum
     video_embed_html: |-
       Where your 
-      vision*
+      *vision*
       Comes to life...
     media_position: left
     media_width: sixty
