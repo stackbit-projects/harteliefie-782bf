@@ -40,7 +40,7 @@ sections:
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
   - type: hero_section
-    title: A Little preview of our latest projects
+    title: A Little preview
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
