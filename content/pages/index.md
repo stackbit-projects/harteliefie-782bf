@@ -41,7 +41,7 @@ sections:
     image: /images/Harteliefie Heading.png
   - type: hero_section
     title: A Little preview
-    subtitle: Od our latest Projectf
+    subtitle: Od our latest Project
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
