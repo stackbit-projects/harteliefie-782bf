@@ -30,7 +30,7 @@ sections:
     align: left
     padding_top: medium
     padding_bottom: medium
-    has_border: false
+    has_border: true
     background_color: none
     background_image_opacity: 100
     background_image_size: cover
