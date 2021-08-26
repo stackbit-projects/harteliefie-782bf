@@ -577,7 +577,7 @@ sections:
       client's specific needs and wants. We work according to specifications but
       we also guide client's who need help deciding what they want and need
       accordingly. Every Project we work on, ends up being beautiful in it's own
-      unique way.
+      unique way. These are just some of our most recent works
     media_position: right
     media_width: fourty
     align: left
