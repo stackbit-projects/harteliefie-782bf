@@ -568,17 +568,8 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >
-      ## ![](/images/Recent%20projects%20header-8f4940c1.png)Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+    content: |
+      ## ![](/images/Recent%20projects%20header-8f4940c1.png)
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
