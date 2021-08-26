@@ -572,9 +572,9 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      We pride ourselves in creating, beautiful unique designs according to our
-      client's specific needs and wants. We work according to specifications but
-      we also guide client's who need help deciding what they want and need
+      We pride ourselves in creating, beautiful & unique designs according to
+      our client's specific needs and wants. We work according to specifications
+      but we also guide client's who need help deciding what they want and need
       accordingly. Every Project we work on, ends up being beautiful in it's own
       unique way. 
 
