@@ -573,8 +573,11 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      We pride ourselves in creating, beautiful unique designs according to our
+      client's specific needs and wants. We work according to specifications but
+      we also guide client's who need help deciding what they want and need
+      accordingly. Every Project we work on, ends up being beautiful in it's own
+      unique way.
     media_position: right
     media_width: fourty
     align: left
