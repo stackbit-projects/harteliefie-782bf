@@ -2,7 +2,6 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     content: |2
 
 
