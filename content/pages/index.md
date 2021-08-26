@@ -35,7 +35,7 @@ sections:
     background_image_opacity: 100
     background_image_size: cover
     background_image_position: center center
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     type: hero_section
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
