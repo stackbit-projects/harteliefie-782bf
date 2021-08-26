@@ -21,7 +21,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     media_position: top
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: medium
     padding_bottom: medium
