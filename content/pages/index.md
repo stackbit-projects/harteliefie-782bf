@@ -561,7 +561,7 @@ sections:
     show_author: false
     show_excerpt: false
     show_image: false
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     has_border: true
