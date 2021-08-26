@@ -84,6 +84,20 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: hero_section
+    title: Some of our Latest Designs
+    content: |
+      ****
+    actions:
+      - label: Get Your Ticket Today!
+        url: /about
+        style: primary
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
+    background_image_opacity: 15
+    background_image_size: cover
   - type: grid_section
     grid_items:
       - title: 2 Days
@@ -118,20 +132,6 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-  - type: hero_section
-    title: Some of our Latest Designs
-    content: |
-      ****
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image_opacity: 15
-    background_image_size: cover
   - type: features_section
     title: What you’ll experience
     features:
