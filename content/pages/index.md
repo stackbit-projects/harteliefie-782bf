@@ -577,7 +577,7 @@ sections:
       tempor incididunt ut labore et dolore magna aliqua.
     media_position: right
     media_width: fourty
-    align: center
+    align: right
     padding_top: medium
     padding_bottom: medium
     has_border: false
