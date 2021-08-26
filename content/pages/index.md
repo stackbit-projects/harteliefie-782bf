@@ -54,6 +54,33 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
   - section_id: lorem-ipsum
+    content: |
+      ## ![](/images/Recent%20projects%20header-8f4940c1.png)
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >2-
+                                                                 
+                                                                 
+      We pride ourselves in creating, beautiful & unique designs according to
+      our client's specific needs and wants. We work according to specifications
+      but we also guide client's who need help deciding what they want and need
+      accordingly. Every Project we work on, ends up being beautiful in it's own
+      unique These are just some of our most recent projects which includes
+      designs and printed items for different functions, businesses and clients.
+    media_position: right
+    media_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: /images/Recent projects header-8f4940c1.png
+  - section_id: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
@@ -565,33 +592,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: /images/Recent projects header-83bd42d2.png
-  - section_id: lorem-ipsum
-    content: |
-      ## ![](/images/Recent%20projects%20header-8f4940c1.png)
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >2-
-                                                                 
-                                                                 
-      We pride ourselves in creating, beautiful & unique designs according to
-      our client's specific needs and wants. We work according to specifications
-      but we also guide client's who need help deciding what they want and need
-      accordingly. Every Project we work on, ends up being beautiful in it's own
-      unique These are just some of our most recent projects which includes
-      designs and printed items for different functions, businesses and clients.
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: /images/Recent projects header-8f4940c1.png
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
