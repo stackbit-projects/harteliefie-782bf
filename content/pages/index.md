@@ -28,7 +28,7 @@ sections:
       Where your 
       vision
       Comes to life..
-    media_position: bottom
+    media_position: left
     media_width: sixty
     align: left
     padding_top: large
