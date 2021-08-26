@@ -40,7 +40,7 @@ sections:
     background_image: /images/Header homepage SMALLER RIGHT.png
     image: /images/Harteliefie Heading.png
   - type: hero_section
-    title: A Little preview
+    title: Some of our Latest Designs
     subtitle: Of our latest Project
     content: |
       ****
